@@ -25,6 +25,7 @@
     "react-dom": "18.2.0",
     "sass": "^1.62.0",
     "sharp": "^0.32.0",
-    "typescript": "5.0.4"
+    "typescript": "5.0.4",
+    "node-sass": "prebuilt"
   }
 }
